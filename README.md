@@ -3,17 +3,9 @@
 
 <p align="center">Sempre pronto para colocar os seus projetos em funcionamento. ❤️</p>&nbsp;
 
-<div align="center" style="margin-bottom:100px">
-<img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=pabloapfarias&theme=dracula&mode=weekly" />
-<img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloapfarias&show_icons=true&theme=dracula&layout=compact" />
-</div>
- 
-&nbsp;
-&nbsp;
-
 ## 🛠️ Tech Stack
 
-### Front-end:
+### Tecnologias:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -75,5 +67,8 @@
 </div>
 &nbsp;
 &nbsp;
-
-<p align="center">I'm confident that I can help you bring your project to life!</p>
+<div align="center" style="margin-bottom:100px">
+<a  href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pabloapfarias&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+<br/>
+<img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloapfarias&show_icons=true&theme=dark&layout=compact" />
+</div>
