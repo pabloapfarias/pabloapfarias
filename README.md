@@ -18,42 +18,30 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-11?style=plastic&logo=TailwindCSS&color=3e3e3e)
 ![TypeScript](https://img.shields.io/badge/TypeScript-11?style=plastic&logo=TypeScript&color=3e3e3e)
 
-
 ### Ferramentas de Designer:
 
 ![Figma](https://img.shields.io/badge/Figma-11?style=plastic&logo=Figma&color=3e3e3e)
-
-
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photohop-11?style=plastic&logo=Adobe%20Photoshop&color=3e3e3e)
-
 ![Canva](https://img.shields.io/badge/Canva-11?style=plastic&logo=Canva&color=3e3e3e)
-
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-11?style=plastic&logo=Adobe%20Illustrator&color=3e3e3e)
-
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-11?style=plastic&logo=Adobe%20XD&color=3e3e3e)
-
-
 
 ### Bancos de Dados:
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PorgreSQL-11?style=plastic&logo=PostgreSQL&color=3e3e3e)
+![MySQL](https://img.shields.io/badge/MySQL-11?style=plastic&logo=MySQL&color=3e3e3e)
+![SQLite](https://img.shields.io/badge/sqlite-11?style=plastic&logo=SQLite&color=3e3e3e)
+
 
 ### Ferramentas de Trabalho:
 
-![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
+![PhpStorm](https://img.shields.io/badge/PhpStorm-11?style=plastic&logo=PhpStorm&color=3e3e3e)
+![PowerBI](https://img.shields.io/badge/PowerBI-11?style=plastic&logo=PowerBI&color=3e3e3e)
+![PyCharm](https://img.shields.io/badge/PyCharm-11?style=plastic&logo=PyCharm&color=3e3e3e)
+![VsCode](https://img.shields.io/badge/VSCode-11?style=plastic&logo=vscode&color=3e3e3e)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-11?style=plastic&logo=jupyter&color=3e3e3e)
+![Git](https://img.shields.io/badge/Git-11?style=plastic&logo=Git&color=3e3e3e)
+![GitHub](https://img.shields.io/badge/GitHub-11?style=plastic&logo=GitHub&color=3e3e3e)
 
 
 &nbsp;
