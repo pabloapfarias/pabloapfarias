@@ -36,9 +36,10 @@
 ### Ferramentas de Trabalho:
 
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-11?style=plastic&logo=PhpStorm&color=3e3e3e)
-![PowerBI](https://img.shields.io/badge/PowerBI-11?style=plastic&logo=PowerBI&color=3e3e3e)
+![DataGrip](https://img.shields.io/badge/DataGrip-11?style=plastic&logo=DataGrip&color=3e3e3e)
 ![PyCharm](https://img.shields.io/badge/PyCharm-11?style=plastic&logo=PyCharm&color=3e3e3e)
 ![VsCode](https://img.shields.io/badge/VSCode-11?style=plastic&logo=vscode&color=3e3e3e)
+![PowerBI](https://img.shields.io/badge/PowerBI-11?style=plastic&logo=PowerBI&color=3e3e3e)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-11?style=plastic&logo=jupyter&color=3e3e3e)
 ![Git](https://img.shields.io/badge/Git-11?style=plastic&logo=Git&color=3e3e3e)
 ![GitHub](https://img.shields.io/badge/GitHub-11?style=plastic&logo=GitHub&color=3e3e3e)
@@ -50,10 +51,10 @@
 ## Contatos:
 
 <div> 
-<a href="https://www.instagram.com/pablofariasoficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:pabloapfarias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/pablofariasbr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://www.pablofarias.com.br" target="_blank"><img src="https://img.shields.io/badge/-My_Site-0078D6?style=for-the-badge&logo=internet-explorer&logoColor=white"  target="_blank"></a> 
+<a href="https://www.instagram.com/pablofariasoficial" target="_blank"><img src="https://img.shields.io/badge/Instagram-11?style=plastic&logo=Instagram&color=3e3e3e"></a>
+<a href="mailto:pabloapfarias@gmail.com"><img src="https://img.shields.io/badge/Gmail-11?style=plastic&logo=Gmail&color=3e3e3e" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pablofariasbr/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-11?style=plastic&logo=linkedin&color=3e3e3e"  target="_blank"></a> 
+<a href="https://www.pablofarias.com.br" target="_blank"><img src="https://img.shields.io/badge/WebSite-11?style=plastic&logo=www&color=3e3e3e"  target="_blank"></a> 
 </div>
 &nbsp;
 &nbsp;
