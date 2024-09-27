@@ -8,20 +8,16 @@
 ### Tecnologias:
 
 ![html5](https://img.shields.io/badge/HTML-5?style=plastic&logo=html5&color=3e3e3e)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS3]!(https://img.shields.io/badge/CSS-3?style=plastic&logo=css3&color=3e3e3e)
+![PHP]!(https://img.shields.io/badge/PHP-8?style=plastic&logo=php&color=3e3e3e)
+![Laravel](https://img.shields.io/badge/Laravel-11?style=plastic&logo=LARAVEL&color=3e3e3e)
+![JavaScript](https://img.shields.io/badge/JavaScript-11?style=plastic&logo=JavaScript&color=3e3e3e)
+![NodeJs](https://img.shields.io/badge/NodeJs-11?style=plastic&logo=Node.js&color=3e3e3e)
+![Python](https://img.shields.io/badge/Python-11?style=plastic&logo=Python&color=3e3e3e)
+![Anaconda](https://img.shields.io/badge/anaconda-11?style=plastic&logo=Anaconda&color=3e3e3e)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-11?style=plastic&logo=TailwindCSS&color=3e3e3e)
+![TypeScript](https://img.shields.io/badge/TypeScript-11?style=plastic&logo=TypeScript&color=3e3e3e)
+
 
 ### Ferramentas de Designer:
 
