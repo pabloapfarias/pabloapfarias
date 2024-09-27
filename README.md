@@ -8,15 +8,15 @@
 ### Tecnologias:
 
 ![html5](https://img.shields.io/badge/HTML-5?style=plastic&logo=html5&color=3e3e3e)
-![CSS3]!(https://img.shields.io/badge/CSS-3?style=plastic&logo=css3&color=3e3e3e)
-![PHP]!(https://img.shields.io/badge/PHP-8?style=plastic&logo=php&color=3e3e3e)
-![Laravel]!(https://img.shields.io/badge/Laravel-11?style=plastic&logo=LARAVEL&color=3e3e3e)
-![JavaScript]!(https://img.shields.io/badge/JavaScript-11?style=plastic&logo=JavaScript&color=3e3e3e)
-![NodeJs]!(https://img.shields.io/badge/NodeJs-11?style=plastic&logo=Node.js&color=3e3e3e)
-![Python]!(https://img.shields.io/badge/Python-11?style=plastic&logo=Python&color=3e3e3e)
-![Anaconda]!(https://img.shields.io/badge/anaconda-11?style=plastic&logo=Anaconda&color=3e3e3e)
-![TailwindCSS]!(https://img.shields.io/badge/TailwindCSS-11?style=plastic&logo=TailwindCSS&color=3e3e3e)
-![TypeScript]!(https://img.shields.io/badge/TypeScript-11?style=plastic&logo=TypeScript&color=3e3e3e)
+![CSS3](https://img.shields.io/badge/CSS-3?style=plastic&logo=css3&color=3e3e3e)
+![PHP](https://img.shields.io/badge/PHP-8?style=plastic&logo=php&color=3e3e3e)
+![Laravel](https://img.shields.io/badge/Laravel-11?style=plastic&logo=LARAVEL&color=3e3e3e)
+![JavaScript](https://img.shields.io/badge/JavaScript-11?style=plastic&logo=JavaScript&color=3e3e3e)
+![NodeJs](https://img.shields.io/badge/NodeJs-11?style=plastic&logo=Node.js&color=3e3e3e)
+![Python](https://img.shields.io/badge/Python-11?style=plastic&logo=Python&color=3e3e3e)
+![Anaconda](https://img.shields.io/badge/anaconda-11?style=plastic&logo=Anaconda&color=3e3e3e)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-11?style=plastic&logo=TailwindCSS&color=3e3e3e)
+![TypeScript](https://img.shields.io/badge/TypeScript-11?style=plastic&logo=TypeScript&color=3e3e3e)
 
 
 ### Ferramentas de Designer:
