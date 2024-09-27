@@ -7,7 +7,7 @@
 
 ### Tecnologias:
 
-![Static Badge](https://img.shields.io/badge/HTML-5?style=social&logo=html5&color=3e3e3e)
+![html5](https://img.shields.io/badge/HTML-5?style=plastic&logo=html5&color=3e3e3e)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
